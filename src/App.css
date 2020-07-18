@@ -1,0 +1,41 @@
+.App {
+
+    margin-top: 80px;
+    margin-left: 30px;
+    align-self: start;
+}
+
+#balance {
+
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.positive{
+
+
+    color: rgba(98, 189, 62, 0.685);
+}
+
+.negative{
+
+    color: rgba(255, 38, 0, 0.562);
+}
+
+
+button{
+
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+#main-data{
+
+    margin-top: 80px;
+}
+
+#main-links{
+    margin-left: 5px;
+    margin-top: 10px;
+}
